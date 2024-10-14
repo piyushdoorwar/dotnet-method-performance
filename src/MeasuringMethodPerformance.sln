@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeasuringMethodPerformance", "MeasuringMethodPerformance.csproj", "{9FB0D825-70C4-4575-9528-65B87DB88FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FB0D825-70C4-4575-9528-65B87DB88FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB0D825-70C4-4575-9528-65B87DB88FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB0D825-70C4-4575-9528-65B87DB88FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB0D825-70C4-4575-9528-65B87DB88FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAA69114-63C2-4207-A077-063C7EA9300A}
+	EndGlobalSection
+EndGlobal
